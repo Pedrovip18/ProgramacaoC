@@ -48,8 +48,6 @@ int main()  {
     printf ("Digite o numero de pontos turisticos da segunda cidade: ");
     scanf ("%d", &pt2);
 
-    \n
-    \n
 
     printf("CARTA 1\n");
     printf("O Estado é: %s\n", estado1);
